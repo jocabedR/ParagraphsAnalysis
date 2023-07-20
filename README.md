@@ -1,5 +1,5 @@
-# Test Software Developer
-You can use the current commands to try and test every Exercise on a console.
+# ParagraphsAnalysis
+Los siguientes comando pueden ser utilizados para correr el programa.
 
 ## Running
 1. `cd src`
